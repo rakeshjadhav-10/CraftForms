@@ -32,7 +32,6 @@ npm run dev
 
 ---
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)  
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)  
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
+ 
 ---
