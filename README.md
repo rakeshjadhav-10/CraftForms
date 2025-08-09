@@ -1,7 +1,7 @@
 # CraftForms
 A simple and intuitive React + TypeScript form builder that lets you create, preview, and manage custom form fields with ease.
 
-##  Features
+## Features
 
 - Create dynamic form fields: `text`, `password`, `textarea`, `number`, `select`, `checkbox`, `date`, `file`
 - Add / edit / remove fields
@@ -14,7 +14,7 @@ A simple and intuitive React + TypeScript form builder that lets you create, pre
 [Open FormSuite on Render](https://craftforms.onrender.com)
 
 
-## 🚀 Quick start
+## Quick start
 
 Make sure you have Node.js (v16+) and npm installed.
 
@@ -28,7 +28,7 @@ npm install
 
 # dev server (Vite)
 npm run dev
-
+```
 
 ---
 
